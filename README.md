@@ -1,12 +1,14 @@
 # BMI-Calculator
 This GitHub project calculates BMI and categorizes weight status based on user input, providing health insights.
+
 This project is a simple Python program designed to calculate a person's Body Mass Index (BMI) based on their weight (in pounds) and height (in inches). The program then provides a brief assessment of the individual's weight status.
 
 Here's a breakdown of the program's functionality:
 
 It prompts the user to enter their name, weight in pounds, and height in inches.
 
-image
+![image](https://github.com/ibukuntolulope/BMI-Calculator/assets/90901397/707d628e-d484-4f2c-8f5b-153a858d43e5)
+
 
 It calculates the BMI using the formula:
 BMI = (weight * 703) / (height * height)
@@ -23,10 +25,12 @@ If BMI is between 35.0 and 39.9 (inclusive), it tells the user they are severely
 If BMI is 40.0 or higher, it tells the user they are morbidly obese.
 If the input values result in a BMI less than or equal to 0, the program prints "Enter valid input," indicating that the input provided is not valid.
 
-image
+![image](https://github.com/ibukuntolulope/BMI-Calculator/assets/90901397/ca384469-25ec-49bd-9e9d-a40ccc8825eb)
+
 
 Overall, this project is a basic example of using Python to calculate and interpret BMI for a user, providing feedback on their weight status based on input.
 
 And from the information I provided, I had this feedback
 
-image
+![image](https://github.com/ibukuntolulope/BMI-Calculator/assets/90901397/635179bb-0e76-4e33-986d-43f17f43c276)
+
