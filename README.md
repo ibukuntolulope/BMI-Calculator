@@ -1,6 +1,7 @@
 # BMI-Calculator
 This GitHub project calculates BMI and categorizes weight status based on user input, providing health insights.
 
+
 This project is a simple Python program designed to calculate a person's Body Mass Index (BMI) based on their weight (in pounds) and height (in inches). The program then provides a brief assessment of the individual's weight status.
 
 Here's a breakdown of the program's functionality:
